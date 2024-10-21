@@ -1,10 +1,4 @@
 # Common_Variables.yml
-# SQLite
-sqlite_db_directory: /opt/SQLite
-sqlite_db_path: /opt/SQLite/Django01.db
-sqlite_user: www-data   # Replace with the correct user
-sqlite_group: www-data  # Replace with the correct group
-sqlite_permissions: '0644'
 
 # Django01
 django_project_dir: /etc/Django01_Project01
