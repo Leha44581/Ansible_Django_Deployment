@@ -9,3 +9,5 @@ Open Common_Variables.yml and change all credentials, ips, and domain
 
 Run Ansible_Django.yml, Ansible_Node_Exporter.yml, Ansible_Promtail.yml on your web server
 Run Ansible_Grafana.yml on your monitoring server
+
+Grafana can be accessed at monitoring_ip:3000
